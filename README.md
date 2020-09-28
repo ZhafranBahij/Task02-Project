@@ -1,5 +1,15 @@
 <h1 align="center">Task02-Report</h1>
-  
+
+<h2>Narasumber : </h2>
+Joshua Atmadja <br><br>
+
+<h2>Pewawancara : </h2>
+1. M. Zhafran Bahij<br>
+2. Ferdy Nugraha Rachmadi<br>
+3. Ecep Jiyaul Rojak<br><br>
+
+
+<h2>Tanya Jawab</h2>
 Q : Sudah berapa tahun bapak menjadi seorang ux designer?<br>
 A : 2 tahun kurang. Full timenya dari 2018 November<br><br>
 
